@@ -9,6 +9,10 @@ This is just mere Donald Drumps résumé.
 
 [GitHub Pages](https://smyrechynskyi.github.io/homepage/)
 
+[AWS](http://smirechinski.trump.resume-production.s3-website.us-east-2.amazonaws.com)
+
+[ZaitNow](https://homepage.smyrechynskyi.now.sh/)
+
 ## License
 
 The code is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
